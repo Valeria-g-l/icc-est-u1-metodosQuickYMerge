@@ -7,7 +7,7 @@
 ### Practica 5 - 30/OCT
 
 Salida de datos Sort Merge con pasos
-![alt text](image.png)
+![alt text](image-2.png)
 
 Salida de datos Sort Quick con pasos
-![alt text](image-1.png)
+![alt text](image-3.png)
